@@ -1,0 +1,15 @@
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+D:\Projects\WPFDEMO\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
